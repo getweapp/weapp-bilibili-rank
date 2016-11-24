@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/ranklist/ranklist",
+    "pages/video/video"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "rgb(215,83,126)",
+    "navigationBarTitleText": "Bilibili排行榜",
+    "navigationBarTextStyle":"light"
+  }
+}
